@@ -2,7 +2,7 @@
 
 ###  😃 안녕하세요, 백엔드 개발자 김용준입니다. 😃
 ###  📧 yjk490@gmail.com 📧
-###  ✏️ https://velog.io/@dev-yongjun ✏️
+###  ✏️ https://yjk490.tistory.com/ ✏️
 
 ### 🛠️ Skill 🛠️
 ![java](https://img.shields.io/badge/Java-11-DEB887?style=flat)
