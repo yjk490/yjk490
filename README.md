@@ -1,10 +1,10 @@
 <div align="left">
 
-###  😃 안녕하세요, 백엔드 개발자 김용준입니다. 😃
-###  📧 yjk490@gmail.com 📧
-###  ✏️ https://yjk490.tistory.com/ ✏️
+###  안녕하세요, 백엔드 개발자 김용준입니다. 😃
+###  📧contact : yjk490@gmail.com
+###  ✏️blog : https://yjk490.tistory.com
 
-### 🛠️ Skill 🛠️
+### 🛠️ Skill
 ![java](https://img.shields.io/badge/Java-11-DEB887?style=flat)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)   
