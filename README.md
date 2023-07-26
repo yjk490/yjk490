@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ###  😃 안녕하세요, 백엔드 개발자 김용준입니다. 😃
 ###  📧 yjk490@gmail.com 📧
