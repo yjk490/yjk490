@@ -1,6 +1,6 @@
 <div align="left">
 
-###  안녕하세요, 백엔드 개발자 김용준입니다.
+###  Hello!
 ###  📧contact : yjk490@gmail.com
 ###  ✏️blog : https://yjk490.tistory.com
 
